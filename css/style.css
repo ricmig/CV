@@ -394,6 +394,16 @@ ul.skills {
     
 }
 
+#fotoHP{
+    width:100%;
+}
+
+#port{
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 5px;
+}
+
 @media (min-width: 1025px) {
     .laranja{
         margin-top:-10px;
