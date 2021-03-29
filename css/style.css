@@ -46,6 +46,20 @@ main{
     width:100vw;
 }
 
+.nameContainer{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+@media (max-width: 1170px)
+{
+.nameContainer{
+    display: inline;
+}
+}
+
 .menu{
     position: absolute;
     right:43px;
