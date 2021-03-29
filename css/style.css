@@ -16,7 +16,6 @@
     color:white;
     font-family: sans-serif;
     max-width: 550px;
-    min-width: 380px;
     height: 289px;
     margin:auto;
     border-bottom: 4px solid #ccc;
@@ -295,6 +294,9 @@ ul.skills {
     padding: 0;
     text-align: center;
     margin-bottom:30px;
+   display: flex;
+    flex-direction: column;
+    align-items: center;
   }
   
   .skills li {
