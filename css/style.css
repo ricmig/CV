@@ -288,6 +288,7 @@ ul.skills {
     color: white;
     padding: 5px 10px;
     margin: 2px;
+    max-width:200px;
   }
   
   .skills li:nth-child(odd) {
