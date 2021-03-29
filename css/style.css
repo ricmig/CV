@@ -279,6 +279,7 @@ li{
 ul.skills {
     padding: 0;
     text-align: center;
+    margin-bottom:30px;
   }
   
   .skills li {
